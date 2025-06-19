@@ -1,7 +1,7 @@
 # Frame & Focus
 Landing page que simula um curso de fotografia profissional.
 
-![Imagem do Site](GitHub.jpg)
+![Imagem do Site](GitHubImage.jpg)
 
 ## Sobre o Projeto
 O Frame & Focus é uma landing page desenvolvida com HTML e CSS, com foco em design moderno e responsivo. O projeto simula uma página de venda de um curso de fotografia, com seções como:
